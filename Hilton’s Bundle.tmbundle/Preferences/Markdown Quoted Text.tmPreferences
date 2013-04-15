@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isDisabled</key>
+	<false/>
+	<key>name</key>
+	<string>Markup Quote Font</string>
+	<key>scope</key>
+	<string>markup.quote</string>
+	<key>settings</key>
+	<dict>
+		<key>fontName</key>
+		<string>Menlo</string>
+		<key>fontSize</key>
+		<string>14</string>
+		<key>fontStyle</key>
+		<string>italic</string>
+		<key>foreground</key>
+		<string>#404040</string>
+	</dict>
+	<key>uuid</key>
+	<string>15A806CD-9245-4F03-ADB1-9CFCD8815E2F</string>
+</dict>
+</plist>
