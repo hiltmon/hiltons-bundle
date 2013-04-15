@@ -13,7 +13,7 @@ To install:
 	git clone git://github.com/hiltmon/hiltons-bundle 
 	cd hiltons-bundle  
 
-Then drag and drop the `Hilton's Bundle.tmbundle` using Finder to `~\Library\Application Support\Avian\Bundles`.
+Then drag and drop the `Hilton's Bundle.tmbundle` using Finder to `~/Library/Application Support/Avian/Bundles`.
 
 Source can be viewed or forked via GitHub: [http://github.com/hiltmon/hiltons-bundle](http://github.com/hiltmon/hiltons-bundle).
 
